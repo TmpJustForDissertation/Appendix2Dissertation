@@ -8,7 +8,7 @@
 
 ***毕业论文附录***中存储的是我的毕业论文所有的附图和附表，以下为附图和附表的目录：<br>
 |编号|题目|
-|:------------:|:------:|
+|:------------:|:------|
 |附表3.1|HS-MMGKG算法在真实数据集上的详细检测结果|
 |附表4.1|SEE算法中在DME数据集上power的详细对比结果|
 |附表4.2|SEE算法中在DME数据集上F-measure的详细对比结果|
@@ -82,7 +82,7 @@
 |    HS-MMGKG    |   Java   |          http://www.eurekaselect.com/171466/article          | https://codeocean.com/capsule/4843767/tree/v1 |
 |      SEE       |   C++    | https://www.tandfonline.com/doi/full/10.1080/13102818.2019.1593052 | https://codeocean.com/capsule/8018548/tree/v1 |
 |     SHEIB      |   C++    |                           暂未发表                           | https://codeocean.com/capsule/5389127/tree/v1 |
-|   SHEIB-AGM    |   Java   |                           暂未发表                           |                                               |
+|   SHEIB-AGM    |   Java   |https://ieeexplore.ieee.org/document/8970268?source=authoralert|https://codeocean.com/capsule/060417ad-1f8f-4386-a4ab-e8a82a48b052/tree|
 
 ### 论文中涉及的其他算法和软件(非本人设计)
 

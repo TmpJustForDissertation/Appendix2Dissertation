@@ -82,7 +82,7 @@
 |    HS-MMGKG    |   Java   |          http://www.eurekaselect.com/171466/article          | https://codeocean.com/capsule/4843767/tree/v1 |
 |      SEE       |   C++    | https://www.tandfonline.com/doi/full/10.1080/13102818.2019.1593052 | https://codeocean.com/capsule/8018548/tree/v1 |
 |     SHEIB      |   C++    |                           暂未发表                           | https://codeocean.com/capsule/5389127/tree/v1 |
-|   SHEIB-AGM    |   Java   |https://ieeexplore.ieee.org/document/8970268?source=authoralert|https://codeocean.com/capsule/060417ad-1f8f-4386-a4ab-e8a82a48b052/tree|
+|   SHEIB-AGM    |   Java   |https://ieeexplore.ieee.org/document/8970268?source=authoralert|https://codeocean.com/capsule/5389127/tree/v1|
 
 ### 论文中涉及的其他算法和软件(非本人设计)
 

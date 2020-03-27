@@ -1,7 +1,7 @@
 # 毕业论文主页
 ## 简介
 
-相同的网页也可以在https://gitee.com/TmpJustForDissertation/Appendix2Dissertation查看，毕竟github的网速可能不太好。<br>
+相同的网页也可以在https://gitee.com/TmpJustForDissertation/Appendix2Dissertation 查看，毕竟github的网速可能不太好。<br>
 暂略(盲审中，屏蔽个人信息以及联络方式，盲审过后会进行补充)
 
 ## 上传内容介绍
